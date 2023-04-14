@@ -1,2 +1,0 @@
-# SOnz
-SOurce bot music
